@@ -1,16 +1,20 @@
-### Hi there 👋
+![FE Badge](https://img.shields.io/badge/DEV-Front--end-green) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenhare)](https://www.linkedin.com/in/lenhhare)
 
-<!--
-**lenhare/lenhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Brazilian 🇧🇷, 29 years old.
 
-Here are some ideas to get you started:
+📖 Never stop learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## My Skills:
+- Technologies: Javascript, HTML, CSS
+- Storage: SQL, NoSQL
+- Distributed Systems: Vercel
+- Versioning systems: git
+- Back-end Development: Node.JS
+- Front-end development: ReactJS, NextJS
+- Mobile development: React Native
+- Design: Bootstrap, Chakra-UI
+
+<--
+- 🔭 I’m currently working on https://economizera.com.br
+- 🌱 I’m currently learning NextJS
 -->
