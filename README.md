@@ -1,4 +1,4 @@
-![FE Badge](https://img.shields.io/badge/DEV-Front--end-green) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenhare)](https://www.linkedin.com/in/lenhhare)
+![FE Badge](https://img.shields.io/badge/DEV-Front--end-green) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenhare)](https://www.linkedin.com/in/lenhare)
 
 I'm Brazilian 🇧🇷, 29 years old.
 
