@@ -14,7 +14,6 @@ I'm Brazilian 🇧🇷, 29 years old.
 - Mobile development: React Native
 - Design: Bootstrap, Chakra-UI
 
-<--
-- 🔭 I’m currently working on https://economizera.com.br
-- 🌱 I’m currently learning NextJS
--->
+
+## 🔭 I’m currently working on https://economizera.com.br
+## 🌱 I’m currently learning NextJS
