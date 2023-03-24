@@ -15,5 +15,4 @@ I'm Brazilian 🇧🇷, 29 years old.
 - Design: Bootstrap, Chakra-UI
 
 
-## 🔭 I’m currently working on https://economizera.com.br
 ## 🌱 I’m currently learning NextJS and VueJS
