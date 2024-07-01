@@ -1,6 +1,6 @@
 ![FE Badge](https://img.shields.io/badge/DEV-Front--end-green)
 
-I'm Brazilian 🇧🇷, 31 years old.
+I'm Brazilian 🇧🇷, 32 years old.
 
 📖 Never stop learning
 
