@@ -1,18 +1,18 @@
 ![FE Badge](https://img.shields.io/badge/DEV-Front--end-green)
 
-I'm Brazilian 🇧🇷, 32 years old.
+I'm Brazilian 🇧🇷, 33 years old.
 
 📖 Never stop learning
 
 ## My Skills:
-- Technologies: Javascript, HTML, CSS
-- Storage: SQL, NoSQL
+- Languages: JavaScript, PHP, Python
+- Frontend: React, Next.js, Bootstrap
+- Backend: Express, Node.js
+- Storage: MySQL, PostgreSQL
+- DevOps: Docker, Oracle Cloud, AWS, Kubernetes, Terraform
+- Data science: PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn
+- Observability and Monitoring: Zabbix, Grafana, Prometheus, Elastic Stack (Elasticsearch, Kibana & Logstash)
+- Tools and Infrastructure: Metabase, Portainer, Proxmox
 - Distributed Systems: Vercel
-- Versioning systems: git
-- Back-end Development: Node.JS
-- Front-end development: ReactJS, NextJS
-- Mobile development: React Native
-- Design: Bootstrap, Chakra-UI
 
-
-## 🌱 I’m currently learning NextJS and VueJS
+  https://lenhare.dev/sobre/
